@@ -4,3 +4,4 @@ year is 2022
 123456
 efwe
 apple is the best
+html is used to create static web pages
