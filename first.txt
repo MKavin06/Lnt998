@@ -1,4 +1,2 @@
 Today is Tuesday.
 Month is March
-12345678
-qwerty
